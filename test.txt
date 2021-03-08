@@ -3,3 +3,6 @@ Esta es la primera linea del archivo
 Esta es la segunda linea del archivo
 
 Esta es la tercera linea del archivo
+________________________________________
+
+Aqui inicia la segunda parte del archivo de prueba
