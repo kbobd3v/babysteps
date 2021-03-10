@@ -13,4 +13,4 @@ Aqui inicia la segunda parte del archivo de prueba
 Seguimos escribiendo en la segunda parte del archivo
 
 De prueba
->>>>>>> segunda
+
